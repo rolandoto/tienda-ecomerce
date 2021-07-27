@@ -1,0 +1,12 @@
+.Container {
+    padding: 1px 186px;
+    margin: auto;
+    margin: auto;
+    overflow: hidden;
+    width: 1154px;
+    position: fixed;
+    background: white;
+    width: -webkit-fill-available;
+    height: 57px;
+    
+}

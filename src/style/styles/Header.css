@@ -1,0 +1,81 @@
+.Header {
+  display: flex;
+  justify-content: space-between;
+  font-family: fantasy;
+}
+.Header-checkout {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  justify-items: center;
+  width: 30px;
+  margin: 0 0 0 0.5em;
+}
+.Header-alert {
+  color: #33b13a;
+  font-size: 14px;
+  margin-left: 5px;
+}
+.Header a {
+  text-decoration: none;
+    color:#111111;
+    text-align: right;
+    position: relative;
+    min-height: 100%;
+    height: 100%;
+    margin: 0;
+    line-height: 1.65;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 700;
+    min-width: 320px;
+    direction: ltr;
+    font-feature-settings: 'kern';
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+   
+}
+
+
+.centrar {
+  font-size: 73px;
+}
+
+
+.fas {
+  margin: 0;
+  padding:  0px 32px 10px 17px;
+    height: 2.81rem;
+    line-height: 2.8rem;
+    border-radius: 7px;
+    background-color: #0070f3;
+    box-shadow: 0 4px 14px 0 rgb(0 118 255 / 39%);
+    color: white;
+    margin-left: 760px;
+}
+
+
+
+.fa-shopping-basket:before {
+  content: "\f291";
+  font-size: 11px;
+
+}
+
+.fa-shopping-basket:before {
+  content: "\f291";
+  font-size: 11px;
+  margin: 9px;
+}
+
+.fixed {
+  position: fixed;
+  z-index: 1;
+}
+
+.blue {
+  color: #0070f3;;
+}
+
+
+
+
